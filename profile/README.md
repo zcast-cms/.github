@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo-banner.svg" alt="zcast — Fast, modular Rust Zettelkasten CMS" width="880" />
+  <img src="https://raw.githubusercontent.com/zcast-cms/.github/main/assets/logo-banner.svg" alt="zcast — Fast, modular Rust Zettelkasten CMS" width="880" />
 </p>
 
 **zcast** is a fast, self-hosted, single-author Zettelkasten CMS built on a contract-oriented Rust microkernel.
